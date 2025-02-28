@@ -1,24 +1,26 @@
-👋 Hi, I'm Sahil Kurni!
-🚀 Software Developer | Full Stack & Flutter Enthusiast
-💡 Passionate about building web and mobile applications that solve real-world problems. I enjoy working with modern technologies to create scalable and efficient solutions.
+# 👋 Hi, I'm Sahil Kurni!  
 
-🔹 Tech Stack:
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Mobile Development: Flutter
-Databases: MongoDB, Firebase
-Other Tools: Git/GitHub, API Integration, State Management
+🚀 **Software Developer | Full Stack & Flutter Enthusiast**  
 
-📌 Current Work:
-Intern at Eskay Softech and Solutions – Developing cross-platform applications with Flutter.
-Working on SyntaxLab – A Flutter-based code editor project.
+💡 Passionate about building web and mobile applications that solve real-world problems. I enjoy working with modern technologies to create scalable and efficient solutions.  
 
-🌱 Learning & Exploring:
-Advanced Flutter concepts
-MERN stack development
-Optimizing performance in web & mobile apps
+## 🔹 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Mobile Development:** Flutter  
+- **Databases:** MongoDB, Firebase  
+- **Other Tools:** Git/GitHub, API Integration, State Management  
 
-💬 Let's Connect!
-📧 Email: sahil7march@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sahil-kurni
-🌍 Portfolio: https://sahil-s-portfolio-website.vercel.app/
+## 📌 Current Work  
+- **Intern at Eskay Softech and Solutions** – Developing cross-platform applications with Flutter.  
+- **Working on CodeCanvas** – A Flutter-based code editor project.  
+
+## 🌱 Learning & Exploring  
+- Advanced Flutter concepts  
+- MERN stack development  
+- Optimizing performance in web & mobile apps  
+
+## 💬 Let's Connect!  
+📧 **Email:** [sahil7march@gmail.com](mailto:sahil7march@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/sahil-kurni](https://www.linkedin.com/in/sahil-kurni)  
+🌍 **Portfolio:** [sahil-s-portfolio-website.vercel.app](https://sahil-s-portfolio-website.vercel.app)  
