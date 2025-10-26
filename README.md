@@ -1,26 +1,35 @@
-# 👋 Hi, I'm Sahil Kurni!  
+# 👋 Hi, I'm Sahil Kurni  
+🚀 Software Engineer | Flutter & Full Stack Developer  
 
-🚀 **Software Developer | Full Stack & Flutter Enthusiast**  
+💡 Passionate about building **web and mobile applications** that solve real-world problems. I love turning ideas into scalable, efficient, and user-friendly solutions using modern technologies.  
 
-💡 Passionate about building web and mobile applications that solve real-world problems. I enjoy working with modern technologies to create scalable and efficient solutions.  
+---
 
-## 🔹 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js  
-- **Mobile Development:** Flutter  
-- **Databases:** MongoDB, Firebase  
-- **Other Tools:** Git/GitHub, API Integration, State Management  
+### 🔹 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Express.js, PHP  
+**Mobile Development:** Flutter, FlutterFlow  
+**Databases:** MySQL, MongoDB, Firebase, Cloud Databases  
+**Other Tools:** Git/GitHub, API Integration, GetX (State Management)
 
-## 📌 Current Work  
-- **Intern at Eskay Softech and Solutions** – Developing cross-platform applications with Flutter.  
-- **Working on CodeCanvas** – A Flutter-based code editor project.  
+---
 
-## 🌱 Learning & Exploring  
-- Advanced Flutter concepts  
-- MERN stack development  
-- Optimizing performance in web & mobile apps  
+### 💼 Current Role
+**Software Engineer at Eskay Softech and Solutions**  
+- Building **cross-platform applications** using Flutter and FlutterFlow  
+- Working with **PHP, MySQL, and cloud databases** for backend solutions  
+- Previously completed **CodeCanvas**, a Flutter-based code editor project  
 
-## 💬 Let's Connect!  
+---
+
+### 🌱 Learning & Exploring
+- Advanced Flutter & GetX architecture  
+- Cloud integration and backend optimization  
+- Scalable full-stack solutions with the MERN stack  
+
+---
+
+### 💬 Let's Connect!
 📧 **Email:** [sahil7march@gmail.com](mailto:sahil7march@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/sahil-kurni](https://www.linkedin.com/in/sahil-kurni)  
-🌍 **Portfolio:** [sahil-s-portfolio-website.vercel.app](https://sahil-s-portfolio-website.vercel.app)  
+🔗 **LinkedIn:** [linkedin.com/in/sahil-kurni](https://www.linkedin.com/in/sahil-kurni)  
+🌍 **Portfolio:** [sahil-s-portfolio-website.vercel.app](https://sahil-s-portfolio-website.vercel.app)
