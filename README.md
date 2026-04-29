@@ -15,7 +15,7 @@
 ---
 
 ### 💼 Current Role
-**Software Engineer at Eskay Softech and Solutions**  
+**Software Engineer at Eskay Softech Software and Solutions**  
 - Building **cross-platform applications** using Flutter and FlutterFlow  
 - Working with **PHP, MySQL, and cloud databases** for backend solutions  
 - Previously completed **CodeCanvas**, a Flutter-based code editor project  
